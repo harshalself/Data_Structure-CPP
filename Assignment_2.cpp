@@ -1,3 +1,5 @@
+// NAME : HARSHAL PATIL
+
 #include<iostream>
 using namespace std;
 class String
@@ -52,3 +54,16 @@ int main()
 
 	return 0;
 }
+// OUTPUT
+/*
+ Enter String : Harshal Patil
+
+ Your String is : Harshal Patil
+ Enter Target : a
+'a' has occured 3 times in String
+ Enter Start : 3
+
+ Enter Length : 5
+
+ Extracted String is : shal
+*/
