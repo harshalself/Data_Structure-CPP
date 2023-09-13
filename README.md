@@ -18,7 +18,7 @@
 2. Clone the repository to your local system.
 
 ```bash
-  git clone https://github.com/<YOUR_GITHUB_USERNAME>/C-Assignments-First-Repo
+  git clone https://github.com/<YOUR_GITHUB_USERNAME>/Data_Structure-CPP
 ```
 
 3. Create a new branch.
